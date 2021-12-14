@@ -1,2 +1,2 @@
 # Commotion
-Commotion is a bootable non-fungible command-line interface powered by Ethereum Classic
+Commotion is a bootable non-fungible command-line interface powered by Ethereum Classic - Litheum
