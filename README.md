@@ -1,2 +1,2 @@
 # Commotion
-Commotion is a non-fungible scripting language powered by Ethereum
+Commotion is a bootable non-fungible command-line interface powered by Ethereum
